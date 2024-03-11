@@ -4,6 +4,8 @@
 
 	- 蘋果直播: 去除平臺公告通知; 去除首頁 Banner 廣告; 去除首頁 博彩 廣告; 去除首頁 遊戲 廣告; 去除首頁 遊戲/活動/我的; 去除首頁 開獎(需要資源鉤子支持); 去除直播 彩票直播/靈魂歌手 分類; 去除直播間廣告; 去除直播列表充值廣告
 
+	- 萌物: 去除平臺公告通知; 去除首頁 Banner 廣告; 去除首頁 博彩 廣告; 去除首頁 遊戲 廣告; 去除首頁 遊戲/活動/我的; 去除首頁 推廣 浮窗; 去除首頁 開獎(需要資源鉤子支持); 去除直播 彩票直播/靈魂歌手 分類; 去除直播間廣告; 去除直播列表充值廣告; 去除客服; 破解收費直播
+
 	
 
 ## 支持版本: / Support Version(s):
@@ -12,6 +14,9 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 萌物: V6.2.28.1
+	[僅支持上述版本]
+	(Only these versions Supported)
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -38,4 +43,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
 
