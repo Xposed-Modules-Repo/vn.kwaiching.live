@@ -8,6 +8,8 @@
 
 	- 夏日: 去除平臺公告通知; 去除首頁 大家都在玩 遊戲推廣; 去除首頁 博彩app 推廣; 去除首頁 系統通知; 去除直播列表 廣告; 去除直播間充值彈窗; 去除直播間遊戲; 去除直播間通知公告; 去除直播間付費限制; 去除視頻播放遊戲廣告; 破解VIP專屬; 去除中獎消息
 
+	- 星耀: 提取直播鏈接
+
 	
 
 ## 支持版本: / Support Version(s):
@@ -21,6 +23,10 @@
 	(Only these versions Supported)
 
 	- 夏日: V1.2.2
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 星耀: V5.0.2
 	[僅支持上述版本]
 	(Only these versions Supported)
 
