@@ -10,6 +10,8 @@
 
 	- 星耀: 提取直播鏈接
 
+	- 金沙: 提取直播鏈接
+
 	
 
 ## 支持版本: / Support Version(s):
@@ -27,6 +29,10 @@
 	(Only these versions Supported)
 
 	- 星耀: V5.0.2
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 金沙: V5.0.2 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -55,3 +61,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
+
