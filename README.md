@@ -16,6 +16,10 @@
 
 	- 猫色: 提取直播鏈接
 
+	- 冰橙: 提取直播鏈接
+
+	- 情人: 提取直播鏈接
+
 	
 
 ## 支持版本: / Support Version(s):
@@ -27,7 +31,7 @@
 	- 愛愛你: V1.0.126
 	[僅支持上述版本]
 	(Only these versions Supported)
-	
+
 	- 萌物: V6.2.28.1
 	[僅支持上述版本]
 	(Only these versions Supported)
@@ -41,6 +45,14 @@
 	(Only these versions Supported)
 
 	- 金沙: V5.0.2 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 冰橙: V3.9.3 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 情人: V3.9.3 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
 
