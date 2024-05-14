@@ -22,6 +22,8 @@
 
 	- 女王: 提取直播鏈接
 
+	- 雪碧: 提取直播鏈接
+
 	
 
 ## 支持版本: / Support Version(s):
@@ -59,6 +61,10 @@
 	(Only these versions Supported)
 
 	- 女王: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 雪碧: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
 
