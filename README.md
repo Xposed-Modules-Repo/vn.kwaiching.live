@@ -28,7 +28,8 @@
 
 	- 戀人: 提取直播鏈接
 
-	
+	- 玫瑰: 提取直播鏈接
+
 
 ## 支持版本: / Support Version(s):
 
@@ -80,6 +81,10 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 玫瑰: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
 	- 猫色: V5.0.2 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
@@ -109,5 +114,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
 
