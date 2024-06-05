@@ -30,6 +30,8 @@
 
 	- 玫瑰: 提取直播鏈接
 
+	- 银杏: 提取直播鏈接
+
 
 ## 支持版本: / Support Version(s):
 
@@ -89,6 +91,10 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 银杏: V5.0.2 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效; 兩個银杏不要同時使用!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
@@ -114,4 +120,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
 
