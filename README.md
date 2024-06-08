@@ -34,6 +34,20 @@
 
 	- 银杏: 提取直播鏈接
 
+	- 舞姬: 提取直播鏈接
+
+	- 久爱: 提取直播鏈接
+
+	- 妖精: 提取直播鏈接
+
+	- 小柒: 提取直播鏈接
+
+	- 榴莲: 提取直播鏈接
+
+	- 模特: 提取直播鏈接
+
+	- 舞姬: 提取直播鏈接
+
 
 ## 支持版本: / Support Version(s):
 
@@ -77,6 +91,14 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 久爱: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 舞姬: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+	
 	- 雪碧: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
@@ -93,6 +115,22 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 榴莲: V3.8.0 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 妖精: V3.8.0 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 小柒: V3.8.0 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 模特: V3.8.0 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+	
 	- 猫色: V5.0.2 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
@@ -126,4 +164,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
