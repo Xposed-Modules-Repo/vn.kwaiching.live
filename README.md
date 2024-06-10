@@ -67,7 +67,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 夏日: V1.2.2
+	- 夏日: V2.9.1 || V1.2.2
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -130,7 +130,7 @@
 	- 模特: V3.8.0 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
-	
+
 	- 猫色: V5.0.2 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
@@ -164,3 +164,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
