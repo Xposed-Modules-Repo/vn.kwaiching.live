@@ -48,6 +48,10 @@
 
 	- 舞姬: 提取直播鏈接
 
+	- 妃鱼: 提取直播鏈接
+
+	- 完美: 提取直播鏈接
+
 
 ## 支持版本: / Support Version(s):
 
@@ -84,6 +88,10 @@
 	(Only these versions Supported)
 
 	- 情人: V3.9.3 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 完美: V3.9.3 [!!!必須使用 LSPosed框架 && 快播插件 armeabi-v7a版本 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -128,6 +136,10 @@
 	(Only these versions Supported)
 
 	- 模特: V3.8.0 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 妃鱼: V3.9.3 [!!!必須使用 LSPosed框架 && 32位手機必須安裝 armeabi-v7a 版本快播插件 功能才會生效 / 64位手機必須安裝 arm64-v8a 版本快播插件 功能才會生效!!!]
 	[僅支持上述版本]
 	(Only these versions Supported)
 
