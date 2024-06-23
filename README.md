@@ -71,7 +71,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 夏日: V2.9.1 || V1.2.2
+	- 夏日: V2.9.2 || V2.9.1 || V1.2.2
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -176,4 +176,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
 
