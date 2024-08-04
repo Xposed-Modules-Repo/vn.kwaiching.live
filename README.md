@@ -52,6 +52,8 @@
 
 	- 完美: 提取直播鏈接
 
+	- 比赛直播: 屏蔽檢測; 提取直播鏈接; 去除主頁Banner廣告
+
 
 ## 支持版本: / Support Version(s):
 
@@ -151,6 +153,9 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	-比赛直播: V2.1.2
+	(Only these versions Supported)
+	
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
@@ -176,4 +181,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
 
